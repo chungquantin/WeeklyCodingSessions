@@ -40,12 +40,12 @@ function fib(n) {
 }
 console.log(fib(9))
 ```
-
+-------
 ***Input***
 9
 ***Output***
 34
-
+---------------------------------------------------------
 # Question 2
 
 # Question 3
